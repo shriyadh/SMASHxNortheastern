@@ -1,6 +1,6 @@
 # SMASHxNortheastern 
 
-#![](https://github.com/shriyadh/SMASHxNortheastern/blob/main/images/1659055539376.jfif)
+
 
 SMASH is an intensive and holistic STEM-focused college prep program that empowers underrepresented students of color to deepen their talents and pursue STEM careers. Each summer scholars are immersed in tuition-free studies in partnership with leading universities throughout the country.
 
