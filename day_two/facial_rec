@@ -1,0 +1,45 @@
+# Patrick Star
+def facial_rec():
+  #Feature 1
+  patrick_eye = "circle"
+  user_eye = input("What shape are your eyes? ")
+  if patrick_eye == user_eye:
+    print("Feature Match")
+  else:
+    print("Access Denied")
+    return
+
+  #Feature 2
+
+  patrick_head = "pointy"
+  user_head = input("What shape is your head? ")
+  if patrick_head == user_head:
+    print("Feature Match")
+  else:
+    print("Access denied")
+    return
+
+
+  #Feature 3
+  patrick_eyeColor = "black"
+  user_eyeColor = input("What color is your eye ")
+  if patrick_eyeColor == user_eyeColor:
+    print("Feature match")
+  else:
+    print("Access denied")
+    return
+
+
+  #Feature 4
+  patrick_nose = "none"
+  user_nose = input("What kind of nose do you have")
+  if patrick_nose == user_nose:
+    print("Feature match")
+  else:
+    print("Access denied")
+    return
+
+  print("Access Granted")
+
+if __name__ == "__main__":
+  facial_rec()
